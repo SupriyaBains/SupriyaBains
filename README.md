@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am currently learning how to use GitHub
+
+Pronouns: She/her
 
 <!--
 **SupriyaBains/SupriyaBains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
